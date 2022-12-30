@@ -27,7 +27,7 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-      with:
+        with:
           token: ${{ secrets.METRIC_TOKEN }}
           user: jamesblanksby
           repositories_affiliations: owner,organization_member
