@@ -1,5 +1,4 @@
-<div style="display: grid; grid-template-rows: repeat(2, auto); grid-template-columns: repeat(2, 1fr);">
-    <img src="./lib/header.svg" style="grid-column: 1 / -1;">
-    <img src="./lib/isocalendar.svg">
-    <img src="./lib/habit.svg">
-</div>
+<img src="./lib/header.svg" align="top" width="49%">
+<br>
+<img src="./lib/isocalendar.svg" align="top" width="49%">
+<img src="./lib/habit.svg" align="top" width="49%">
