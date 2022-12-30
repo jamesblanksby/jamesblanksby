@@ -32,8 +32,9 @@ jobs:
           user: jamesblanksby
           repositories_affiliations: owner,organization_member
           template: classic
-          base: header
+          base: null
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           config_timezone: Europe/London
           filename: lib/isocalendar.svg
+          
