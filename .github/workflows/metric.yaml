@@ -16,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRIC_TOKEN }}
           user: jamesblanksby
+          repositories_affiliations: owner,organization_member
           template: classic
           base: header
           config_timezone: Europe/London
